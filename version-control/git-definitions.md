@@ -10,3 +10,4 @@ A branch is a pointer to each commit made, branches move out from the master bra
 Commit will record changes to the repository. A good commit message is useful. It explains not only the change, but the context of a change. It explains why and how there was a change. It acts as a good collaboration tool.  
 * What is a merge conflict?
 A merge conflict is when  2 branches are changing the same file, and then those branches need to be merged. Git will put up a message to help resolve these conflicts.
+End of answers, update
