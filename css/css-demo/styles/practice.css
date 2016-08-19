@@ -1,5 +1,6 @@
 #contact-info p {
   font-size:  .8em;
+    
 }
 
 .job {
@@ -9,5 +10,25 @@
 	padding-left: 10px;
 	padding-bottom: 5px;
 	margin-bottom: 15px;
+
+	
+
 }
+
+.lists {
+	font-size: .8em;
+}
+
+section h3:hover {
+    background-color: grey;
+}
+
+.lists li {
+	color: blue;
+}
+
+
+
+
+
 
