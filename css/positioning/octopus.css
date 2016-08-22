@@ -1,0 +1,25 @@
+.glasses {
+	
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	z-index:2;
+	position:relative;
+	bottom: 190px;
+}
+.octo {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+
+}
+
+.hat {
+	display:block;
+    margin-left:auto;
+    margin-right:auto;
+    z-index: 2;
+    position:relative;
+    bottom:400px;
+}
