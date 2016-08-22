@@ -12,6 +12,23 @@ cite {
 #external-links ul {
   list-style-type: none;
   padding-left: 0px;
+  min-width: 30%;
+  display: inline-block;
+  margin-right: 5%;
+ 
+}
+
+main {
+  min-width: 30%;
+  width: 50%;
+  display: inline-block;
+  margin-left: 5%;
+
+}
+
+section {
+  display: inline-block;
+  vertical-align: top;
 }
 
 /* you're welcome to edit the
@@ -30,3 +47,25 @@ figcaption {
   font-style: italic;
   text-align: right;
 }
+
+body {
+  max-width: 960px;
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 20px;
+  } 
+  body {
+    font-size: 10px;
+  }
+
+}
+
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
+
+
+
+
+
