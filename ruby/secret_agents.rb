@@ -1,3 +1,4 @@
+
 def encrypt(string)
 	len = string.length
 
@@ -38,6 +39,7 @@ def decrypt(encrypted)
 end
 
 
+
 decrypt(encrypt('hello'))
 
 # message = encrypt("abc")
@@ -66,6 +68,7 @@ else puts decrypt (code)
 
 
 end
+
 
 
 

@@ -1,4 +1,5 @@
 
+
 puts "What is the hamster's name?"
 
 hamster_name = gets.chomp.capitalize
@@ -27,4 +28,3 @@ if hamster_adoption == "YES"
 		puts "Is not a good candidate for adoption."
 	else
 		puts "sorry, I don't Understand."
-	end
