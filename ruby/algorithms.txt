@@ -1,1 +1,30 @@
 Steps for Robot to operate an elevator (4.1)
+Decide wether you want to go up or down
+     If going up AND elevator door is open
+     enter open door 
+     press button for desired floor number 
+     until desired floor number is signaled and door opens remain inside elevator
+     when desired floor number is reached and door opens step outside elevator 
+      else press up button
+      wait for door to open
+      press button for desired floor number 
+      until desired floor number is signaled and door opens remain inside elevator
+      when desired floor number is reached and door opens step outside elevator 
+
+If going down AND elevator door is open 
+ enter open door 
+     press button for desired floor number 
+     until desired floor number is signaled and door opens remain inside elevator
+     when desired floor number is reached and door opens step outside elevator 
+    else press down button
+    wait for door to open
+    press button for desired floor number 
+     until desired floor number is signaled and door opens remain inside elevator
+     when desired floor number is reached and door opens step outside elevator 
+
+Algorithm for handing out snacks to class
+  For each table in classroom until each table is called once
+    call out table to line up for snack
+  for each student in line
+    hand out one snack
+    or instruct student to sit down if they don’t like the snack
